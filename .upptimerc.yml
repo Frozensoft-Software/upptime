@@ -19,11 +19,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.frozensoftsoftware.com
-  logoUrl: https://imgur.com/rivb5ii.svg
+  logoUrl: https://imgur.com/rivb5ii.png
   name: Frozensoft Software Status
   theme: dark
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Stay Informed with Frozensoft Software's Service Status Page"
+  introMessage: At Frozensoft Software, we strive to provide our customers with the best possible service. To keep you informed, we've created this service status page powered by Upptime. Here you'll find real-time updates on the status of our services, so you can stay informed and know exactly what's going on. Check back often to stay up-to-date and as always, don't hesitate to reach out to us if you have any questions or concerns.
   navbar:
     - title: Status
       href: /
