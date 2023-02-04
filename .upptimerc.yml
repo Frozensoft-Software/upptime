@@ -4,6 +4,9 @@ repo: upptime # The name of this repository
 
 assignees: # Users to assign downtime issues (optional)
   - Eiromplays
+  
+status-website:
+  theme: night
 
 sites:
   - name: Google
