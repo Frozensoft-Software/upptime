@@ -21,7 +21,7 @@ status-website:
   cname: status.frozensoftsoftware.com
   logoUrl: https://imgur.com/rivb5ii.png
   name: Frozensoft Software Status
-  theme: ocean
+  theme: night
   introTitle: "Stay Informed with Frozensoft Software's Service Status Page"
   introMessage: At Frozensoft Software, we strive to provide our customers with the best possible service. To keep you informed, we've created this service status page powered by Upptime. Here you'll find real-time updates on the status of our services, so you can stay informed and know exactly what's going on. Check back often to stay up-to-date and as always, don't hesitate to reach out to us if you have any questions or concerns.
   navbar:
