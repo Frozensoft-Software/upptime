@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 84,
-    "timeWeek": 101,
-    "timeMonth": 92,
-    "timeYear": 92,
-    "dailyMinutesDown": {}
+    "name": "Website",
+    "url": "https://www.frozensoftsoftware.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.frozensoftsoftware.com.ico",
+    "slug": "website",
+    "status": "down",
+    "uptime": "18.93%",
+    "uptimeDay": "18.93%",
+    "uptimeWeek": "18.93%",
+    "uptimeMonth": "18.93%",
+    "uptimeYear": "18.93%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   }
 ]
