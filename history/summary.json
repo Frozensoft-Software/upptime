@@ -10,14 +10,52 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 130,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 125,
+    "timeDay": 124,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-02-21": 37,
+      "2023-02-21": 1168,
       "2023-02-20": 980
+    }
+  },
+  {
+    "name": "Website Test",
+    "url": "https://frozensoft-software-website.pages.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/frozensoft-software-website.pages.dev.ico",
+    "slug": "website-test",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Website Test 2",
+    "url": "https://frozensoftsoftware.com",
+    "icon": "https://icons.duckduckgo.com/ip3/frozensoftsoftware.com.ico",
+    "slug": "website-test-2",
+    "status": "down",
+    "uptime": "12.08%",
+    "uptimeDay": "12.08%",
+    "uptimeWeek": "12.08%",
+    "uptimeMonth": "12.08%",
+    "uptimeYear": "12.08%",
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
+    "dailyMinutesDown": {
+      "2023-02-21": 0
     }
   }
 ]
