@@ -12,6 +12,8 @@ sites:
     url: $AUTH_URL
   - name: API
     url: $API_URL
+  - name: Admin
+    url: $ADMIN_URL  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
