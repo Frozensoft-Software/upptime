@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/frozensoft-software-website.pages.dev.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.50%",
+    "uptimeYear": "96.54%",
     "time": 119,
     "timeDay": 109,
     "timeWeek": 105,
@@ -25,18 +25,19 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
-    "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "98.18%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "98.20%",
     "time": 407,
     "timeDay": 588,
     "timeWeek": 425,
     "timeMonth": 437,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2023-04-04": 3,
       "2023-03-09": 131,
       "2023-03-03": 23,
       "2023-03-01": 510,
@@ -48,10 +49,10 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
@@ -59,16 +60,18 @@
     "timeWeek": 438,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-04": 2
+    }
   },
   {
     "name": "Admin",
     "url": "$ADMIN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +80,8 @@
     "timeWeek": 396,
     "timeMonth": 435,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-04": 0
+    }
   }
 ]
