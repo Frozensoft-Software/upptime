@@ -10,33 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 110,
-    "timeWeek": 169,
-    "timeMonth": 159,
+    "time": 156,
+    "timeDay": 103,
+    "timeWeek": 160,
+    "timeMonth": 157,
     "timeYear": 167,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Auth",
-    "url": "$AUTH_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "auth",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 495,
-    "timeDay": 482,
-    "timeWeek": 480,
-    "timeMonth": 518,
-    "timeYear": 497,
-    "dailyMinutesDown": {
-      "2025-08-23": 0,
-      "2024-09-23": 475
-    }
   },
   {
     "name": "API",
@@ -50,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.34%",
     "time": 530,
-    "timeDay": 417,
-    "timeWeek": 464,
-    "timeMonth": 529,
+    "timeDay": 410,
+    "timeWeek": 457,
+    "timeMonth": 525,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2025-03-23": 1077,
@@ -237,27 +216,6 @@
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 725
-    }
-  },
-  {
-    "name": "Admin",
-    "url": "$ADMIN_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "admin",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 477,
-    "timeDay": 567,
-    "timeWeek": 493,
-    "timeMonth": 511,
-    "timeYear": 476,
-    "dailyMinutesDown": {
-      "2025-08-23": 0,
-      "2024-09-23": 472
     }
   }
 ]
